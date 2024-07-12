@@ -6,4 +6,4 @@ elif age > 1 and age < 18:
 elif age >= 18 and age < 50:
   print("you an adult")
 else:
-  print("you an old man")
+  print("you an old man54")
